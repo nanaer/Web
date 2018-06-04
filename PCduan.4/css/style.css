@@ -1,0 +1,406 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+.all{
+	margin: 0 auto;
+}
+.clearfloat:after{
+	clear: both;
+}
+.head{
+	height: 45px;
+	width: 100%;
+	background-color: rgb(51,51,51);
+	margin: 0;
+	padding: 0;
+}
+#right{
+	list-style-image:  url(../images/head.png);
+	list-style-position: inside;
+	font-size: 20px;
+	border: none;
+	padding-right: 114px;
+	text-align: center;
+}
+.top li{
+	float: right;
+	padding: 17px;
+	list-style: none;
+	font-size: 14px;
+	color: #ffffff;
+	text-align: center;
+}
+
+#aa{
+	background: url(../images/2.png) no-repeat right;
+}
+#bb{
+	background: url(../images/2.png) no-repeat right;
+}
+.body{
+	background:rgb(245,245,245);
+	height: 1912px;
+	width: 100%;
+}
+.bbb{
+	font: 24px regular;
+	color: #666666;
+	margin-left: 115px;
+	margin-bottom: 20px;
+}
+.fff{
+	font: 20px regular;
+	color: #1c5080;
+	padding-left: 52px;
+}
+.ccc{
+
+	background: rgb(245,245,245);
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.aaa{
+	padding-top: 42px;
+	padding-left: 115px;
+}
+.ddd{
+	width: 400px;
+	padding-left: 227px;
+}
+.sss{
+	position: absolute;
+	top:44px;
+	right: 0;
+}
+.fcc{
+	width: 635px;
+	height: 75px;
+	background: green;
+}
+.changtiao{
+	position: absolute;
+	top:111px;
+	right: 113px;
+}
+.diergeduanluo{
+	background: rgb(245,245,245);
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.diyige{
+	font: 18px regular;
+	color: #1c5080;
+	padding-left: 650px;
+}
+.dierge{
+	font: 18px regular;
+	color: #1c5080;
+	padding-left: 87px;
+}
+.disange{
+	font: 18px regular;
+	color: #666666;
+	padding-left: 107px;
+}
+.disige{
+	font: 18px regular;
+	color: #666666;
+	padding-left: 111px;
+}
+.first{
+	height: 222px;
+	width: 903px;
+	background: #ffffff;
+	margin-left: 115px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+.yunnan{
+	font: 22px regular;
+	color: #1c5080;
+	padding-left: 40px;
+	padding-top: 30px;
+	margin-bottom: 19px;
+}
+.shijian{
+	font: 20px regular;
+	color: #010101;
+	padding-left: 42px;
+	margin-bottom: 19px;
+	
+}
+.time{
+	height: 34px;
+	width: 180px;
+	background: #f5f5f5;
+	margin-left: 30px;
+	text-align: center;
+	font: 18px regular;
+	color: #666666;
+}
+.renshu{
+	font: 20px regular;
+	color: #010101;
+	padding-left: 78px;
+
+}
+.ren{
+	height: 34px;
+	width: 180px;
+	background: #f5f5f5;
+	margin-left: 30px;
+	text-align: center;
+	font: 18px regular;
+	color: #666666;
+
+}
+.tishi{
+	font: 14px regular;
+	color: #e8420a;
+	padding-left: 41px;
+	padding-top: 18px;
+	padding-bottom: 34px;
+}
+.second{
+	width: 903px;
+	height: 230px;
+	background: #ffffff;
+	margin-left: 115px;
+	margin-right:10px;
+	margin-bottom: 10px;
+}
+.lianxiren{
+	font: 20px regular;
+	color: #010110;
+	padding-left: 40px;
+	padding-top: 30px;
+	margin-bottom: 14px;
+}
+.lianxi{
+	font: 16px regular;
+	color: #666666;
+	padding-left:40px;
+}
+.shouji{
+	margin-left: 90px;
+	margin-bottom: 35px;
+	font: 18px regular;
+	color: #010101;
+}
+.xing{
+	color: red;
+	padding-right: 32px;
+}
+.one{
+	padding-right: 20px;
+}
+.two{
+	font: 14px regular;
+	color: #666666;
+	text-align: center;
+	padding-right: 20px;
+}
+.third{
+	width: 903px;
+	height: 464px;
+	background: #ffffff;
+	margin-left: 115px;
+	margin-right:10px;
+	margin-bottom: 10px;
+}
+.chuxingren{
+	font: 18px regular;
+	color: #1c5080;
+	padding-left: 17px;
+	list-style:url(../images/5.png) inside;
+	padding-bottom: 25px;
+
+}
+.xinxi{
+	list-style:url(../images/6.png) inside;
+	font: 18px regular;
+	color: #1c5080;
+	padding-left: 17px;
+	padding-bottom: 25px;
+}
+.three{
+	font: 18px regular;
+	color: #010101;
+	padding-left:74px;
+	padding-right: 20px;
+}
+.four{
+	font: 18px regular;
+	color: #010101;
+	padding-left:90px;
+	padding-right: 20px;
+}
+.xingg{
+	padding-left: 88px;
+	color: red;
+	padding-right: 32px;
+
+}
+.wang{
+	padding-top: 24px;
+}
+.na{
+	padding-top: 24px;
+	padding-bottom: 31px;
+}
+.forth{
+	width: 903px;
+	height: 495px;
+	background: #ffffff;
+	margin-left: 115px;
+	margin-right:10px;
+	margin-bottom: 10px;
+}
+.beizhu{
+	font: 20px regular;
+	color:#010101;
+	padding-left: 40px;
+	padding-top: 30px;
+	margin-bottom: 14px;
+
+}
+.qita{
+	font: 16px regular;
+	color: #666666;
+	padding-left:40px;
+}
+.shuru{
+	width: 760px;
+	height: 102px;
+	margin-top: 33px;
+	margin-left: 42px;
+	font: 14px regular;
+	color: #666666;
+	padding-left: 20px;
+	padding-top: 15px;
+}
+.anniu{
+	padding-top: 80px;
+	padding-left: 211px;
+	padding-bottom: 35px;
+}
+.fanhui{
+	font: 17.91px regular;
+	color: #666666;
+}
+.tijiao{
+	
+	width: 290px;
+	height: 47px;
+	background: #e8420a;
+	font: 19.9px regular;
+	color: #ffffff;
+	margin-left: 25px;
+	text-align: center;
+	padding-right:105px;
+	padding-left: 105px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	border: 0px;
+	border-radius: 10px;
+	margin-bottom:36px;
+}
+.xuanze{
+	margin-left: 227px;
+	padding-top: 35px;
+	font: 17.91px regular;
+	color: #010101;
+
+}
+.wangqian{
+	font: 17.91px regular;
+	color: #1c5080;
+}
+.last{
+	
+	height: 77px;
+	background: #ffffff;
+	border-top: 2px solid #1c5080;
+	font: 16px regular;
+	color: #666666;
+	padding-left: 304px;
+	padding-top:29px;
+}
+.final{
+	margin-left:34px;
+}
+.youbian{
+	width: 260px;
+	height: 333px;
+	background: #ffffff;
+	border: 2px solid #1c5080;
+	position: absolute;
+	top: 220px;
+	left: 1030px;
+}
+.jiesuandan{
+	font: 16px regular;
+	color: #1c5080;
+	padding-left: 17px;
+	padding-top: 18px;
+	margin-bottom: 30px;
+}
+.buzhidaojiaosha{
+	font: 16px regular;
+	color: #000000;
+	padding-left: 18px;
+	padding-bottom: 22px;
+}
+.caixukun{
+	font: 14px regular;
+	color: #000000;
+	margin-left: 17px;
+	border-bottom: 1px solid #cecece;
+	padding-bottom: 12px;
+	margin-right: 13px;
+
+}
+.wangziyi{
+	font: 14px regular;
+	color: #000000;
+	padding-left: 40px;
+}
+.youzhangjing{
+	font: 14px regular;
+	color: #000000;
+	margin-left: 17px;
+	margin-top:13px; 
+}
+.linyanjun{
+    font: 14px regular;
+	color: #000000;
+	padding-left: 100px;
+	
+}
+.xiaogui{
+	font: 14px regular;
+	color: #000000;
+	padding-left: 35px;
+	padding-top: 27px;
+}
+.zhuxingjie{
+	font: 30px regular;
+	color: #e8420a;
+	padding-left: 5px;
+}
+.justin{
+	width: 200px;
+	height: 30px;
+	background: #e8420a;
+	font: 16.82px regular;
+	color: #ffffff;
+	border-radius: 5px;
+	text-align: center;
+	margin-left: 30px;
+	margin-top:7px;
+	padding-top: 4px;
+}
